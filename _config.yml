@@ -1,0 +1,12 @@
+# Site settings
+title: Twoquesions' Word Things
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is my blog, made as both life documentation and writing exercise.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://twoquestions.github.io" # the base hostname & protocol for your site
+twitter_username: two_questions
+github_username:  twoquestions
+
+# Build settings
+markdown: kramdown
