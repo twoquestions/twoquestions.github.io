@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Now to focus!"
 date:   2015-08-21 18:00:00
-categories: jekyll update
+categories: 
 ---
 
 Now that I've done some thinking, I think I'll focus on C dev with 
