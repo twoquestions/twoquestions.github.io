@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Now to focus!"
+title:  "Holy State Batman!"
 ---
 
 Just started making my HTML Roguelike game, and the crazy modifications to state
@@ -16,3 +16,6 @@ I also want to learn how to use Emacs, because I can already use vi from my
 BGSU education, and I wasn't really enamored with it.  I fell in love 
 immediately with lisp, and it seems everyone who writes lisp uses emacs 
 anyway.  Weekend project, HOOOOO!
+
+I'll have to write another post on the importance of exercise as well, as my
+productivity has slackened without weights.
