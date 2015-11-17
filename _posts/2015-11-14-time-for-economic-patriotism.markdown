@@ -25,7 +25,7 @@ What we need to do in order to fix this problem is both increase all worker's ne
 
 The housing market is all different kinds of messed up.  Right now, there are more vacant homes than homeless people, which is sounds absolutely absurd. I can understand why a bank or private investor may want to hold out on selling or renting out a property for fear of missing out on a better price later, but holding out to this point is doing more social harm than private good.  
 
-To solve this, in places where there is both a significant surplus of homes and homeless people, the government should be empowered to buy those homes at just under market price and put them to use housing people, has Utah has with already government-owned property.  We also need to give tax privileges to multifamily home construction, especially in cities where space is at a  premium.  Luckily that trend has already started to materialize.
+To solve this, in places where there is both a significant surplus of homes and homeless people, the government should be empowered to buy those homes at just under market price and put them to use housing people, as Utah has with already government-owned property.  We also need to give tax privileges to multifamily home construction, especially in cities where space is at a  premium.  Luckily that trend has already started to materialize.
 
 ###Food
 
